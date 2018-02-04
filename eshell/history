@@ -1,0 +1,128 @@
+ls
+rm explore-one-variable.pdf 
+rm explore-one-variable.Rmd 
+rm explore-one-variable.md 
+ls
+cd documentation/
+ls
+ls
+cd ..
+ls
+ls -a
+cd ..
+ls
+ls --a
+ls -a
+git remote add origin https://github.com/elpapito/Udacity.git
+git push -u origin master
+ls
+rm #test.R#
+git push -u origin master
+git remote -v
+ls
+cd lib
+ls
+cd ..
+cd test/dummy/config/
+irb
+cd ..
+cd ..
+cd ~
+cd workspace/
+ls
+mrdir cpp
+mkdir cpp
+cd cpp/
+mkdir dummy
+cd dummy/
+ls
+gtags
+gtags
+cd ~
+cd workspace/
+cd cpp/
+cd dummy/
+ls
+gtags
+ls
+ls
+g++ hello.cpp 
+g++ hello.cpp
+g++ hello.cpp
+ls
+a
+a.exe
+./a.exe 
+clear
+g++ hello.cpp
+./a.exe 
+cd ../../..
+cd ~
+cd .emacs.d/script/
+ls
+mv ggtags.el ggtags-config.el
+ls
+cd ~
+ls
+mkdir data
+cd data/
+touch .data
+ghc --version
+cd ~
+cd workspace/haskell/sandbox/
+ls
+./hello.o
+cd ../..
+cd workspace/
+cd cpp/
+ls
+rm -rf dummy/
+mkdir dummy
+cd dummy/
+touch readme.txt
+gtags
+ls G*
+cd ..
+mkdir helloWorld
+cd helloWorld/
+ls
+make
+make
+make
+git add .
+git commit -m"add AnthonyTedde folder + basic identity"
+git push
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+make
+python --version
+python jedi
+pip jedi

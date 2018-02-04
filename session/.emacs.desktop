@@ -1,0 +1,199 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Tue Dec 12 09:47:28 2017
+;; Desktop file format version 208
+;; Emacs version 25.1.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23087 38816 48339 100000) (desktop . "208") "ATE@LPK-1603030" nil nil ((((font-backend uniscribe gdi) (font . "-outline-Consolas-normal-normal-normal-mono-19-*-*-*-c-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (mouse-color . "black") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 0) (height . 45) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (environment) (frameset--id . "F25A-CE68-9125-AE00") (frameset--mini t . t) (width . 190) (modeline . t) (minibuffer . t) (unsplittable) (left + -8) (top + -8) (icon-name) (visibility . t) (display . "w32") (explicit-name) (tool-bar-position . top)) ((min-height . 4) (min-width . 21) (min-height-ignore . 2) (min-width-ignore . 15) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 88) (min-pixel-width . 210) (min-pixel-height-ignore . 44) (min-pixel-width-ignore . 150) (min-pixel-height-safe . 22) (min-pixel-width-safe . 40)) hc (pixel-width . 1920) (pixel-height . 975) (total-width . 192) (total-height . 44) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 960) (pixel-height . 975) (total-width . 96) (total-height . 44) (normal-height . 1.0) (normal-width . 0.5) (buffer "sstock.R" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 7) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1910) (start . 1063))) (leaf (last . t) (pixel-width . 960) (pixel-height . 975) (total-width . 96) (total-height . 44) (normal-height . 1.0) (normal-width . 0.5) (buffer "*magit: StockPriceSimulator" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins nil) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 1) (start . 1)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/session/" "~/workspace/RPackage/StockPriceSimulator/R/sstock.R" "~/workspace/RPackage/StockPriceSimulator/README.Rmd" "~/workspace/RPackage/RandomWalk/R/sbmotion.R"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "c:/Users/ate/workspace/RPackage/StockPriceSimulator/R/sstock.R"
+  "sstock.R"
+  'ess-mode
+  '(eldoc-mode linum-mode undo-tree-mode auto-complete-mode ess-r-package-mode auto-revert-mode)
+  1910
+  '(1332 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring (1480 1350 1099 1 1951 1329 116 1126 1126))))
+
+(desktop-create-buffer 208
+  nil
+  "R"
+  'dired-mode
+  '(linum-mode ess-r-package-mode)
+  261
+  '(nil nil)
+  t
+  '("c:/Users/ate/workspace/RPackage/StockPriceSimulator/R/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "StockPriceSimulator"
+  'dired-mode
+  '(linum-mode ess-r-package-mode)
+  552
+  '(nil nil)
+  t
+  '("c:/Users/ate/workspace/RPackage/StockPriceSimulator/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/ate/workspace/RPackage/StockPriceSimulator/README.Rmd"
+  "README.Rmd"
+  'markdown-mode
+  '(linum-mode undo-tree-mode ess-r-package-mode poly-markdown+r-mode auto-revert-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/ate/workspace/RPackage/RandomWalk/R/get.R"
+  "get.R"
+  'ess-mode
+  '(eldoc-mode linum-mode undo-tree-mode auto-complete-mode ess-r-package-mode auto-revert-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "R"
+  'dired-mode
+  '(linum-mode ess-r-package-mode)
+  253
+  '(nil nil)
+  t
+  '("c:/Users/ate/workspace/RPackage/RandomWalk/R/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "RandomWalk"
+  'dired-mode
+  '(linum-mode ess-r-package-mode)
+  552
+  '(605 nil)
+  t
+  '("c:/Users/ate/workspace/RPackage/RandomWalk/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/ate/workspace/RPackage/RandomWalk/tests/testthat/test_sbmotion.R"
+  "test_sbmotion.R"
+  'ess-mode
+  '(eldoc-mode linum-mode undo-tree-mode auto-complete-mode ess-r-package-mode auto-revert-mode)
+  275
+  '(275 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring (178 117 178 1314 1))))
+
+(desktop-create-buffer 208
+  "c:/Users/ate/workspace/RPackage/RandomWalk/R/sbmotion.R"
+  "sbmotion.R"
+  'ess-mode
+  '(eldoc-mode linum-mode undo-tree-mode auto-complete-mode ess-r-package-mode auto-revert-mode)
+  399
+  '(403 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring (307 205))))
+
+(desktop-create-buffer 208
+  "c:/Users/ate/workspace/RPackage/RandomWalk/R/sbmotionGenerator.R"
+  "sbmotionGenerator.R"
+  'ess-mode
+  '(eldoc-mode linum-mode undo-tree-mode auto-complete-mode ess-r-package-mode auto-revert-mode)
+  2251
+  '(2232 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring (2216 1607 1063 608 314 263 358 339 223 358))))
+
+(desktop-create-buffer 208
+  "c:/Users/ate/workspace/RPackage/RandomWalk/tests/testthat/test_get.R"
+  "test_get.R"
+  'ess-mode
+  '(eldoc-mode linum-mode undo-tree-mode auto-complete-mode ess-r-package-mode auto-revert-mode)
+  564
+  '(501 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring (424 435))))
+
+(desktop-create-buffer 208
+  nil
+  "testthat"
+  'dired-mode
+  '(linum-mode ess-r-package-mode)
+  329
+  '(nil nil)
+  t
+  '("c:/Users/ate/workspace/RPackage/RandomWalk/tests/testthat/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "tests"
+  'dired-mode
+  '(linum-mode ess-r-package-mode)
+  256
+  '(nil nil)
+  t
+  '("c:/Users/ate/workspace/RPackage/RandomWalk/tests/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/ate/workspace/RPackage/StockPriceSimulator/README.Rmd"
+  "README.Rmd[poly-head-tail]"
+  'poly-head-tail-mode
+  '(linum-mode undo-tree-mode ess-r-package-mode poly-markdown+r-mode)
+  1197
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "c:/Users/ate/workspace/RPackage/StockPriceSimulator/README.Rmd"
+  "README.Rmd[r]"
+  'ess-mode
+  '(eldoc-mode linum-mode undo-tree-mode auto-complete-mode ess-r-package-mode poly-markdown+r-mode)
+  1194
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
